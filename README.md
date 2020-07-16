@@ -9,10 +9,11 @@ To run this project you will need to have installed in your machine:
 - JDK 1.8 or higher
 - Maven 3.0 or higer
 - Extend Report 3
+- Chrome or Firefox Browser (last version)
 
-Maven Execution:
-
-"mvn clean test -Dsuite= TESTNG_SUITE_TO_RUN -Denvironment= ENVIRONMENT_TO_RUN_AGAINST"
+```  
+$ git clone git@github.com:cesaralobo/ebay-ui-automation.git 
+```  
 
 ## Case Steps <h2>
 
