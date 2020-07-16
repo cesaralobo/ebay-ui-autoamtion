@@ -17,7 +17,7 @@ $ git clone git@github.com:cesaralobo/ebay-ui-automation.git
 
 ## Case Steps <h2>
 
-1. Enter to Ebay
+1. Enter to Ebay https://www.ebay.com/
 2. Search for shoes
 3. Select brand PUMA
 4. Select status “New with box”
